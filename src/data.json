@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "PlanName": "BASIC",
+    "MonthlyPrice": "$9.99",
+    "AnnualPrice": "$99.99",
+    "StorageCapacity": "50 GB",
+    "NumberOfUsers": "1",
+    "OnlineAppAccess": true,
+    "OfflineAppAccess": false,
+    "DataRecoverySupport": false,
+    "PersonalDomain": false
+  },
+  {
+    "id": 2,
+    "PlanName": "STANDARD",
+    "MonthlyPrice": "$13.99",
+    "AnnualPrice": "$139.99",
+    "StorageCapacity": "125 GB",
+    "NumberOfUsers": "1",
+    "OnlineAppAccess": true,
+    "OfflineAppAccess": true,
+    "DataRecoverySupport": false,
+    "PersonalDomain": false
+  },
+  {
+    "id": 3,
+    "PlanName": "PREMIUM",
+    "MonthlyPrice": "$18.99",
+    "AnnualPrice": "$189.99",
+    "StorageCapacity": "250 GB",
+    "NumberOfUsers": "2",
+    "OnlineAppAccess": true,
+    "OfflineAppAccess": true,
+    "DataRecoverySupport": true,
+    "PersonalDomain": false
+  },
+  {
+    "id": 4,
+    "PlanName": "BUSINESS",
+    "MonthlyPrice": "$24.99",
+    "AnnualPrice": "$249.99",
+    "StorageCapacity": "500 GB",
+    "NumberOfUsers": "4",
+    "OnlineAppAccess": true,
+    "OfflineAppAccess": true,
+    "DataRecoverySupport": true,
+    "PersonalDomain": true
+  }
+]
